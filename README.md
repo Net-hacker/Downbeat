@@ -7,7 +7,7 @@ It's a Program that let's you download Songs (which are on YT-Music)
 
 ## Usage
 ```
-pip install -r requirements.txt
+> pip install -r requirements.txt
 ```
 
 ```
